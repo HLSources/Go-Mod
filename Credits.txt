@@ -1,0 +1,5 @@
+Credits:
+
+*Particle System - BattleGrounds Team
+*Water Shader - MechMod Team
+*Motion Blur - Ryokeen, Highlander.
